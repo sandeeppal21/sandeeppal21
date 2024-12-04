@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **YouTube Clone in React**
 
-- 💬 Ask me about **React.Js, JJavaScript, MySQL, CSS, HTML.**
+- 💬 Ask me about **React.Js, JavaScript, MySQL, CSS, HTML.**
 
 - 📫 How to reach me : **sandeeppal@gmail.com**
 
