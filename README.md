@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React.Js, JavaScript, MySQL, CSS, HTML.**
 
-- 📫 How to reach me : **sandeeppal@gmail.com**
+- 📫 How to reach me : **sandeeppal2109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
